@@ -1,79 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/911ac5cab459c4785dbc4218ad6b6d38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8debef0678fec944435b8b21643f4498/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35424cacf630040b3199a6b185edb7bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b1bdc589664b687ee64ab07cbe4597a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/365867095a38ab126f01e58a9da54d00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c464b8d33b849f3b5dbf6c6f4e0f208a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dbf59a27bb450f9fe5a6b25a5c20e494/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a19d50f3ec2aedefa7eed8926bbf6f4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/341a70a74048fabc0f46b6ba43606ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/25a6f7ba9dc3c59df00645bce91fd979/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/51b2d72fc18da054edc63310d244c253/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/32537bad77bd5051080837f4386fcfc2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/944dbbcf291de29c1430c7662aab8419/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0f842a11a82dc3466647104ad04116fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bbd94deafb4c66a34f712e10541de13f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/756db404b4f422a8deac506cb2c1a9d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5112476faaa806b97a656fbe5f41c893/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e8538302ac167d38ae6eb51c904bcf96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3b519c8ab110b0f81e462b816134083c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3e56b3efaf8fe10af13254800499ab8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/76877e3c7e19dfafd0c3c6fec1630c08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5f63f1051dd5244881dc37e37eff4191/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:15:5-38:19
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5112476faaa806b97a656fbe5f41c893/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5112476faaa806b97a656fbe5f41c893/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:16:9-57
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:16:9-57
 activity#com.anncode.platzitripsapp.MainActivity
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:19:9-37:20
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:19:9-37:20
 	android:launchMode
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:21:13-43
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:21:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:24:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:25:13-55
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:25:13-55
 	android:configChanges
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:23:13-137
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:23:13-137
 	android:theme
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:20:13-41
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:20:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:30:13-32:40
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:30:13-32:40
 	android:value
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:32:17-37
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:32:17-37
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:31:17-82
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:31:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:34:17-68
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:35:17-76
+ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/911ac5cab459c4785dbc4218ad6b6d38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/911ac5cab459c4785dbc4218ad6b6d38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8debef0678fec944435b8b21643f4498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8debef0678fec944435b8b21643f4498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35424cacf630040b3199a6b185edb7bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35424cacf630040b3199a6b185edb7bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b1bdc589664b687ee64ab07cbe4597a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b1bdc589664b687ee64ab07cbe4597a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/365867095a38ab126f01e58a9da54d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/365867095a38ab126f01e58a9da54d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c464b8d33b849f3b5dbf6c6f4e0f208a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c464b8d33b849f3b5dbf6c6f4e0f208a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dbf59a27bb450f9fe5a6b25a5c20e494/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dbf59a27bb450f9fe5a6b25a5c20e494/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a19d50f3ec2aedefa7eed8926bbf6f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a19d50f3ec2aedefa7eed8926bbf6f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/341a70a74048fabc0f46b6ba43606ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/341a70a74048fabc0f46b6ba43606ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/25a6f7ba9dc3c59df00645bce91fd979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/25a6f7ba9dc3c59df00645bce91fd979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/51b2d72fc18da054edc63310d244c253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/51b2d72fc18da054edc63310d244c253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/32537bad77bd5051080837f4386fcfc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/32537bad77bd5051080837f4386fcfc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/944dbbcf291de29c1430c7662aab8419/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/944dbbcf291de29c1430c7662aab8419/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0f842a11a82dc3466647104ad04116fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0f842a11a82dc3466647104ad04116fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bbd94deafb4c66a34f712e10541de13f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bbd94deafb4c66a34f712e10541de13f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/756db404b4f422a8deac506cb2c1a9d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/angelica/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/756db404b4f422a8deac506cb2c1a9d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5112476faaa806b97a656fbe5f41c893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5112476faaa806b97a656fbe5f41c893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e8538302ac167d38ae6eb51c904bcf96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e8538302ac167d38ae6eb51c904bcf96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3b519c8ab110b0f81e462b816134083c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3b519c8ab110b0f81e462b816134083c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3e56b3efaf8fe10af13254800499ab8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3e56b3efaf8fe10af13254800499ab8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/76877e3c7e19dfafd0c3c6fec1630c08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/76877e3c7e19dfafd0c3c6fec1630c08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5f63f1051dd5244881dc37e37eff4191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/angelica/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5f63f1051dd5244881dc37e37eff4191/AndroidManifest.xml:20:5-44
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/travel/platzi_trips_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/test/android/app/src/main/AndroidManifest.xml
