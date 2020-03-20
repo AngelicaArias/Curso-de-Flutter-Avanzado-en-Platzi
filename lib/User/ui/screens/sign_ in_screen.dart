@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:platzi_trips_app/widgets/gradient_back.dart';
+import 'package:platzi_trips_app/widgets/button_green.dart';
+import 'package:platzi_trips_app/User/bloc/bloc_user.dart';
+import 'package:generic_bloc_provider/generic_bloc_provider.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:platzi_trips_app/platzi_trips_cupertino.dart';
+
 
 class SignInScreen extends StatefulWidget{
   
@@ -11,11 +17,29 @@ class SignInScreen extends StatefulWidget{
 
 class _SignInScreen extends State<SignInScreen>{
   
+  UserBloc userBloc;
   
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) {    
     // TODO: implement build
-    return null;
+    userBloc =BlocProvider.of(context);
+    return signInGoogleUI();
+  }
+
+  Widget _handleCurrentSession(){
+    return StreamBuilder(
+      stream: userBloc.authStatus,
+      builder: (BuildContext contex, AsyncSnapshot snapshot){
+        //snapshot- data -object User
+       if (snapshot.hasData || snapshot.hasError){
+         return signInGoogleUI();
+       } 
+       else{
+         return PlatziTripsCupertino();
+         
+       }
+       },
+      );
   }
 
   Widget signInGoogleUI(){
@@ -23,8 +47,9 @@ class _SignInScreen extends State<SignInScreen>{
       body: Stack(
         alignment: Alignment.center,
         children: <Widget>[
-          GradientBack("title", null),
+          GradientBack("", null),
           Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text("Welcome \n this is your Traveln app", 
                 style: TextStyle(
@@ -33,7 +58,16 @@ class _SignInScreen extends State<SignInScreen>{
                   color: Colors.white,
                   fontWeight: FontWeight.bold
                 ),
+              ),
+              ButtonGreen(text: "Login with gmail", 
+              onPressed: (){
+                userBloc.singIn().then((FirebaseUser user) => print("ella usuarioes ${user.displayName}"));
+              },
+              width: 300.0,
+              height: 50.0,
+
               )
+
             ],
           )
         ],
