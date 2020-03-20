@@ -51,7 +51,7 @@ class _SignInScreen extends State<SignInScreen>{
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text("Welcome \n this is your Traveln app", 
+              Text("Bienvenidos \n hola mundo", 
                 style: TextStyle(
                   fontSize: 37.0,
                   fontFamily:"lato",
@@ -61,6 +61,7 @@ class _SignInScreen extends State<SignInScreen>{
               ),
               ButtonGreen(text: "Login with gmail", 
               onPressed: (){
+                userBloc.signOut(); 
                 userBloc.singIn().then((FirebaseUser user) => print("ella usuarioes ${user.displayName}"));
               },
               width: 300.0,

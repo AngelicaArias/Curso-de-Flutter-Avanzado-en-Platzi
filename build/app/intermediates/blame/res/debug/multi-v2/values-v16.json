@@ -4,7 +4,7 @@
             "outputFile": "/home/angelica/Documentos/flutter/cursoflutterplatzi/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/angelica/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4f8eecd1ae1608407b41da15a417935/res/values-v16/values-v16.xml",
+                    "source": "/home/angelica/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/2b858383551cea95faf3f5a37aa6d782/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
