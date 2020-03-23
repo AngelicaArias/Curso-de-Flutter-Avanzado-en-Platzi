@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:platzi_trips_app/User/model/user.dart';
 import 'package:platzi_trips_app/widgets/gradient_back.dart';
 import 'package:platzi_trips_app/widgets/button_green.dart';
 import 'package:platzi_trips_app/User/bloc/bloc_user.dart';
@@ -62,7 +63,14 @@ class _SignInScreen extends State<SignInScreen>{
               ButtonGreen(text: "Login with gmail", 
               onPressed: (){
                 userBloc.signOut(); 
-                userBloc.singIn().then((FirebaseUser user) => print("ella usuarioes ${user.displayName}"));
+                userBloc.singIn().then((FirebaseUser user) {
+                 userBloc.updateUserData(User(
+                  uid: user.uid,
+                  name: user.displayName,
+                  email: user.email,
+                  photoURL: user.photoUrl
+                 ));
+                });
               },
               width: 300.0,
               height: 50.0,
